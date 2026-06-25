@@ -3,7 +3,7 @@
 git init
  -iniciar novo projeto com git
 
- git ad <nome-arquivo>
+ git add <nome-arquivo>
  - add os arquivos que estão prontos para serem comitados
 
  git commit -m "mensagem commit"
